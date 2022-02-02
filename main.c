@@ -18,7 +18,7 @@ void unionArray(int *a, int sizeA, int *b, int sizeB, int *c, int *sizeC) {
 
 int main() {
     int sizeA;
-    scanf("%d", &sizeA);
+    scanf("%d ", &sizeA);
     int a[sizeA];
 
     int sizeB;
